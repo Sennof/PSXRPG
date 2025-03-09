@@ -1,2 +1,6 @@
 09.03.2025
 INITIAL COMMIT
+
+ADDED FEATURES:
+	-psx shader
+	-post processing
